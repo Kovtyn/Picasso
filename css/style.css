@@ -1,0 +1,23 @@
+
+.container {
+    display: grid;    
+   
+  grid-template-rows: 60px 1fr 60px;
+grid-template-columns: 20% 65% 15%;
+grid-gap: 10px;
+height: 100vh;
+}
+.background1 {
+	width: 700px;
+	height: 400px;
+	text-align : center-right;
+	font-size: 18px;
+	
+	}
+.header {
+background: #B0C4DE;}
+.footer {
+background: #B0C4DE	;}
+.background {
+	width: 200px;
+height: 250px;}
